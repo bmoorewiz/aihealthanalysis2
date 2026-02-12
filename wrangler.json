@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "aihealthanalysis2",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "2cb1d8ca-192b-4a09-8340-bfc5c1b081ce",
+			"database_name": "aihealthanalysisdb"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
